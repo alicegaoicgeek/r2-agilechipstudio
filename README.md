@@ -1,1 +1,1 @@
-# r2-agilechipstudio
+This repository is private and currently under maintenance.

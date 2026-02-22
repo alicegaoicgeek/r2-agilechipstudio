@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "include": ["README.md"],
+  "exclude": ["**/*", "src/**/*", "docs/**/*"]
+}
