@@ -1,5 +1,18 @@
 {
-  "version": "1.0",
-  "include": ["README.md"],
-  "exclude": ["**/*", "src/**/*", "docs/**/*"]
+  "repo_notes": [
+    {
+      "content": "This repository is strictly private. All documentation has been removed."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Private Notice",
+      "purpose": "To indicate this wiki is no longer available.",
+      "page_notes": [
+        {
+          "content": "This wiki has been taken offline."
+        }
+      ]
+    }
+  ]
 }
